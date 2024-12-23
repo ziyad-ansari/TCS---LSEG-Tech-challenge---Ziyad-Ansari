@@ -33,7 +33,7 @@ The script outputs the instance metadata as a JSON-formatted object. Below is an
     "instance-id": "i-0123456789abcdef0",
     "instance-type": "t2.micro",
     "local-ipv4": "172.31.32.33",
-    "public-ipv4": "203.0.113.25",
+    "public-ipv4": "203.x.xxx.25",
     "placement": {
         "availability-zone": "us-east-1a",
         "region": "us-east-1"
