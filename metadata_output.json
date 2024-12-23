@@ -1,0 +1,27 @@
+{
+    "ami-id": "ami-0abcdef1234567890",
+    "ami-launch-index": "0",
+    "ami-manifest-path": "(unknown)",
+    "block-device-mapping": {
+        "ami": "/dev/xvda",
+        "root": "/dev/xvda"
+    },
+    "hostname": "ip-172-31-32-33.ec2.internal",
+    "instance-action": "none",
+    "instance-id": "i-0123456789abcdef0",
+    "instance-type": "t2.micro",
+    "local-hostname": "ip-172-31-32-33.ec2.internal",
+    "local-ipv4": "172.31.32.33",
+    "placement": {
+        "availability-zone": "us-east-1a",
+        "region": "us-east-1"
+    },
+    "public-hostname": "ec2-203-0-113-25.compute-1.amazonaws.com",
+    "public-ipv4": "xx.xx.xxx.25",
+    "reservation-id": "r-0abc123def456gh78",
+    "security-groups": "default",
+    "services": {
+        "domain": "amazonaws.com",
+        "partition": "aws"
+    }
+}
