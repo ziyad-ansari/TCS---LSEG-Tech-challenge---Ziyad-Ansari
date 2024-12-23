@@ -1,5 +1,5 @@
 {
-    "ami-id": "ami-0abcdef1234567890",
+    "ami-id": "ami-07a63969ac0961461",
     "ami-launch-index": "0",
     "ami-manifest-path": "(unknown)",
     "block-device-mapping": {
@@ -16,7 +16,7 @@
         "availability-zone": "us-east-1a",
         "region": "us-east-1"
     },
-    "public-hostname": "ec2-203-0-113-25.compute-1.amazonaws.com",
+    "public-hostname": "xx-xx-xx-xx.compute-1.amazonaws.com",
     "public-ipv4": "xx.xx.xxx.25",
     "reservation-id": "r-0abc123def456gh78",
     "security-groups": "default",
